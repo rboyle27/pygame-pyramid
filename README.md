@@ -50,7 +50,7 @@ $`R_{z}(\theta) = \begin{bmatrix} \cos\theta & -\sin\theta & 0 \\
  \sin\theta & \cos\theta & 0 \\
  0 & 0 & 1 \end{bmatrix}`$
 
-2. Applying rotation matrices
+# Applying rotation matrices
    - To rotate a point in a 3D space, you must apply these matrices to it.
 Order matters here, the sequence in which you apply it affects its position.
 Typically, you rotate on the x-axis, then y-axis, and finally z-axis.
